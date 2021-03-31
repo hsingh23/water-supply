@@ -5,10 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "request": "~2.33.0",
-    "cheerio": "~0.13.1",
+    "cheerio": "~0.14.0",
     "csv": "~0.3.7",
     "async": "~0.2.10",
-    "underscore": "~1.6.0"
+    "underscore": "~1.12.1"
   },
   "devDependencies": {},
   "scripts": {
